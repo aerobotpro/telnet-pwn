@@ -1,0 +1,4 @@
+prettytable==0.7.2
+colorama==0.4.1
+ipaddress==1.0.23
+
