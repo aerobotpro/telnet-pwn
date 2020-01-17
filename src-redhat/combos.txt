@@ -1,4 +1,5 @@
 admin:cisco
+cisco:admin
 admin:admin
 cisco:cisco
 cisco:
