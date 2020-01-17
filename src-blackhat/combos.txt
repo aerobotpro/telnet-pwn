@@ -1,0 +1,4 @@
+admin:cisco
+admin:admin
+cisco:cisco
+cisco:
