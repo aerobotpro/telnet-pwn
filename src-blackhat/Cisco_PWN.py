@@ -12,14 +12,7 @@ __status__ = "Open-Source"
 
 
 #Usage:
-
-#PIPE Usage:
-#for line in hosts.readlines():
-#    cisco_pwn(host, 23, 1, "hosts[line]", 5).scan()
-### Essentially an easy addition to your vuln discovery kit!
-
-#CLI Usage:
-#python3 cisco_pwn.py 127.0.0.1
+#python3 cisco_pwn.py 10.0.0.1 10.0.255.255
 
 
 
