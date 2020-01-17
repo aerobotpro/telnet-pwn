@@ -201,7 +201,7 @@ print(Fore.GREEN)
 
 #Check if cli or a pipe/process
 try:
-    host = str(argv[0])
+    host = str(argv[1])
     print(Fore.WHITE)
 except Exception as E:
     print(get_logo())
