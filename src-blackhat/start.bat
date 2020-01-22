@@ -1,1 +1,1 @@
-python Cisco_PWN.py 147.165.0.0 147.165.255.255
+python Cisco_PWN.py 10.8.0.1 192.168.137.1
