@@ -1,5 +1,5 @@
 # telnet-pwn
-My DEPICTION Of A Command Line Tool For Automating The Exploitation/Hijacking Of CiscoPro And Other Vulnerable Services.
+My DEPICTION Of A Command Line Tool For Automating The Exploitation/Hijacking Of Cisco And Other Vulnerable Telnet Services.
 Not sure if this really works but it should never be used for illegal/immoral purposes!
 If you attempt to scan the internet you will probably go to jail!
 
