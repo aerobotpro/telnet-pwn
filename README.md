@@ -1,5 +1,6 @@
 # telnet-pwn
-A Command Line Tool For Automating The Exploitation/Hijacking Of CiscoPro And Other Vulnerable Services.
+My DEPICTION Of A Command Line Tool For Automating The Exploitation/Hijacking Of CiscoPro And Other Vulnerable Services.
+Not sure if this really works but it should never be used for illegal/immoral purposes!
 
 ### Requirements:
 > `Python3.6` Or Greater.
